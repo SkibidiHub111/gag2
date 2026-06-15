@@ -1,0 +1,7 @@
+return {
+    "Carrot", "Strawberry", "Blueberry", "Tulip", "Tomato", "Apple", "Bamboo",
+    "Corn", "Cactus", "Pineapple", "Mushroom", "Green Bean", "Banana", "Grape",
+    "Coconut", "Mango", "Acorn", "Cherry", "Dragon Fruit", "Sunflower",
+    "Venus Fly Trap", "Pomegranate", "Poison Apple", "Moon Bloom", "Dragon's Breath",
+    "Pumpkin", "Beanstalk", "Lotus", "Thorn Rose"
+}
