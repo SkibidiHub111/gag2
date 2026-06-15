@@ -1,7 +1,7 @@
-return {
-    "Carrot", "Strawberry", "Blueberry", "Tulip", "Tomato", "Apple", "Bamboo",
-    "Corn", "Cactus", "Pineapple", "Mushroom", "Green Bean", "Banana", "Grape",
-    "Coconut", "Mango", "Acorn", "Cherry", "Dragon Fruit", "Sunflower",
-    "Venus Fly Trap", "Pomegranate", "Poison Apple", "Moon Bloom", "Dragon's Breath",
-    "Pumpkin", "Beanstalk", "Lotus", "Thorn Rose"
+return{
+Frog=10000,Bunny=20000,Owl=25000,
+Deer=50000,Robin=75000,Bee=1000000,
+Monkey=1000000,["Black Dragon"]=1000000,
+["Golden Dragonfly"]=9000000,Unicorn=12000000,
+Raccoon=15000000,["Ice Serpent"]=20000000
 }
